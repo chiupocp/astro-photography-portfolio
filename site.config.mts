@@ -8,9 +8,9 @@ export interface SocialLink {
 }
 
 export default {
-	title: 'SR',
+	title: 'QIUBO',
 	favicon: 'favicon.ico',
-	owner: 'Sara Richard',
+	owner: '邱波',
 	profileImage: 'profile.webp',
 	socialLinks: [
 		{
